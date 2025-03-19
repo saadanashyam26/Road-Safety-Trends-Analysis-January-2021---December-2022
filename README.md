@@ -94,6 +94,12 @@ The primary objectives of this project are:
 3. Xie, Y., Liu, C., Wang, J., & Li, J. (2020). *A Data-Driven Approach for Visualizing Road Traffic Accidents Using Geographic Information Systems*. Safety Science, 131, 104903.
 
 ---
+![image](https://github.com/user-attachments/assets/567ad60b-9500-447d-a453-0a3a007f4a44)
+
+![image](https://github.com/user-attachments/assets/b6939f76-d3df-4923-ad8c-e3f853f8268a)
+![image](https://github.com/user-attachments/assets/f8ac57a7-29e5-49f1-ad72-23cd1ff29167)
+
+
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
